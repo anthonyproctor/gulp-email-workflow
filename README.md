@@ -30,12 +30,7 @@ This workflow requires the following dependencies -
 #### 2. Clone this repository
 
 
-```
-git clone https://github.com/ireade/gulp-email-workflow.git
-cd gulp-email-workflow
-```
 
-Or [download as a ZIP](https://github.com/ireade/gulp-email-workflow/archive/master.zip).
 
 
 
@@ -147,9 +142,6 @@ Alternatively, you can add it to the default and watch gulp tasks to have it gen
 
 ## Footnotes
 
-- Created by [Ire Aderinokun](http://ireaderinokun.com)
-- Contributions by [Zac Wasielewski](https://github.com/zacwasielewski)
-- [MIT License](https://github.com/ireade/gulp-email-workflow/blob/master/license.txt)
 
 
 "# gulp-email-workflow" 
